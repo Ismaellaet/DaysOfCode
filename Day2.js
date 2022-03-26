@@ -11,4 +11,3 @@ if(likeLanguage == 1) {
 } else if(likeLanguage == 2) {
     alert("Ahh que pena... Já tentou aprender outras linguagens?")
 }
-
